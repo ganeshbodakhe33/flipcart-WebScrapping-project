@@ -1,1 +1,2 @@
-sample file
+Some changes
+Some other changes
